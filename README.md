@@ -1,2 +1,2 @@
 # AWS-Practice
-aws certified cloud practitioner preapration
+AWS certified cloud practitioner preparation
